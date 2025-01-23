@@ -18,7 +18,7 @@ Before getting started, ensure you have the following:
 - **Java/Kotlin knowledge**: Familiarity with the basics of Java or Kotlin programming.  
 - **Android SDK**: Configured with the required APIs.  
 
-## How to Use
+## How to Use:
 
 1. Clone this repository:  
    ```bash
