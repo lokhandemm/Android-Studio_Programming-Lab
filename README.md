@@ -4,7 +4,7 @@ This repository contains the source code and materials for Android Studio progra
 
 The aim is to help students learn and implement Android app development concepts effectively.
 
-## Project Overview:
+## Overview:
 
 This repository includes:
 - Practical exercises and assignments.
