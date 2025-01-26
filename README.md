@@ -11,6 +11,15 @@ This repository includes:
 - Sample projects demonstrating key Android development concepts.
 - Code examples for hands-on learning.
 
+# Projects
+
+## Expense Calculator
+A simple application that helps track daily expenses and manage budgets efficiently. Built using [technology stack].
+
+## BMI Calculator
+A web-based tool that calculates the Body Mass Index (BMI) based on user inputs (weight and height). It provides health status suggestions based on the calculated BMI. Built using [technology stack].
+
+
 ## Prerequisites:
 
 Before getting started, ensure you have the following:
