@@ -1,6 +1,6 @@
 # Android Studio Programming Lab
 
-This repository contains the source code and materials for Android Studio programming lab exercises
+This repository contains the source code and materials for Android Studio programming lab exercises!
 
 The aim is to help students learn and implement Android app development concepts effectively.
 
