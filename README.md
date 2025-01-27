@@ -19,7 +19,6 @@ A simple application that helps track daily expenses and manage budgets efficien
 ## BMI Calculator
 A web-based tool that calculates the Body Mass Index (BMI) based on user inputs (weight and height). It provides health status suggestions based on the calculated BMI. Built using [technology stack].
 
-
 ## Prerequisites:
 
 Before getting started, ensure you have the following:
